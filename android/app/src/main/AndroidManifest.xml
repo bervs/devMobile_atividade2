@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="atividade2_http"
+=======
+        android:label="atividade_1"
+>>>>>>> 91b5881ddc74ee056146909d98b3d62d28755772
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

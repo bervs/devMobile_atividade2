@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "atividade2_http.app"
+=======
+               BuildableName = "atividade_1.app"
+>>>>>>> 91b5881ddc74ee056146909d98b3d62d28755772
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "atividade2_http.app"
+=======
+            BuildableName = "atividade_1.app"
+>>>>>>> 91b5881ddc74ee056146909d98b3d62d28755772
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "atividade2_http.app"
+=======
+            BuildableName = "atividade_1.app"
+>>>>>>> 91b5881ddc74ee056146909d98b3d62d28755772
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "atividade2_http.app"
+=======
+            BuildableName = "atividade_1.app"
+>>>>>>> 91b5881ddc74ee056146909d98b3d62d28755772
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

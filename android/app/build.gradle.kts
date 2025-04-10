@@ -6,7 +6,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.atividade2_http"
+=======
+    namespace = "com.example.atividade_1"
+>>>>>>> 91b5881ddc74ee056146909d98b3d62d28755772
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +25,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.atividade2_http"
+=======
+        applicationId = "com.example.atividade_1"
+>>>>>>> 91b5881ddc74ee056146909d98b3d62d28755772
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

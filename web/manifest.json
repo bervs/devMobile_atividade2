@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "atividade2_http",
     "short_name": "atividade2_http",
+=======
+    "name": "atividade_1",
+    "short_name": "atividade_1",
+>>>>>>> 91b5881ddc74ee056146909d98b3d62d28755772
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

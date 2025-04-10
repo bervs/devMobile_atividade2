@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # atividade2_http
+=======
+# atividade_1
+>>>>>>> 91b5881ddc74ee056146909d98b3d62d28755772
 
 A new Flutter project.
 
